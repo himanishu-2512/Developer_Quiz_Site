@@ -1,4 +1,17 @@
 const pythonQuiz = [
+  
+    {
+    Question: 
+      "In Python, If there is a tuple t=('rohit','mohit','sober') then what will be the value of print(t*3)?",
+    Answer: "('rohit', 'mohit', 'sober', 'rohit', 'mohit', 'sober', 'rohit', 'mohit', 'sober')",
+    Distractor1: "('3rohit', '3mohit', '3sober')",
+    Distractor2: "('rohit3', 'mohit3', 'sober3')",
+    Distractor3: "('rohitrohitrohit', 'mohitmohitmohit', 'sobersobersober')",
+    Explanation: 
+      "The raise keyword is used in Python to throw exceptions.",
+    Link: "https://www.freecodecamp.org/news/exception-handling-python/",
+  },
+  
   {
     Question: 
       "In Python, what keyword is used to raise exceptions?",
@@ -7,8 +20,8 @@ const pythonQuiz = [
     Distractor2: "goto",
     Distractor3: "except",
     Explanation: 
-      "The raise keyword is used in Python to throw exceptions.",
-    Link: "https://www.freecodecamp.org/news/exception-handling-python/",
+      "If a tuple is multiplied by a number x then it will display the content of tuple x times.",
+    Link: "https://www.w3schools.com/python/python_tuples_join.asp",
   },
   {
       Question: 
